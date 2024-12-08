@@ -46,7 +46,7 @@ def jovan():
      {green}OWNER     {red}: {yellow}NOBODY 
      {green}FACEBOOK  {red}: {yellow}https://www.facebook.com/hucks/
      {hotpink}─────────────────────────────⋆⋅☆⋅⋆─────────────────────────────────────────\033[0m""")
-token = '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'
+token = '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'
 
 # GitHub API headers
 headers = {
@@ -201,7 +201,7 @@ yellow = "\033[1;33m"
 blue = "\033[1;34m"
 white = "\033[1;37m"
 
-token = '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'
+token = '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'
 
 # GitHub API headers
 headers = {
